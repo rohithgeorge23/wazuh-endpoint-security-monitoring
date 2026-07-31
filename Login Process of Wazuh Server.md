@@ -13,6 +13,6 @@
 ---
 
 ### Step 3: Logging into the Wazuh Console
-<img width="1035" height="581" alt="login to website" src="https://github.com/user-attachments/assets/bbdd0170-bd59-478e-b148-53371edcd25d" />
+<img width="1035" height="552" alt="login to website" src="https://github.com/user-attachments/assets/8c01ebf9-c002-496f-96da-9144b034fc81" />
 
 **Description:** Accessed the official Wazuh Web UI login page and authenticated using the administrator credentials (`admin`).
