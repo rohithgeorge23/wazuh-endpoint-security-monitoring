@@ -7,7 +7,7 @@ A hands-on cybersecurity lab implementing a **Wazuh SIEM** architecture inside O
 ## 📁 Project Documentation
 
 * 🛠️ **[Installation & VirtualBox Setup](./Wazuh%20Setup%20%26%20Installation%20Process.md)**
-* 🔑 **[Wazuh Server Login & Console Access](./Wazuh%20Server%20Login%20Process.md)**
+* 🔑 **[Wazuh Server Login & Console Access](./Login%20Process%20of%20Wazuh%20Server.md)**
 * 💻 **[Wazuh Agent Deployment on Kali Linux](./Wazuh%20Agent%20Deployment%20Process.md)**
 * 🚨 **[Attack Simulation & Alert Monitoring](./Alert%20Testing%20%26%20Security%20Monitoring.md)**
 
